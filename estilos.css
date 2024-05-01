@@ -6,8 +6,8 @@
 }
 
 body{ /*Imagen de fondo*/
-  background-image: url(fondo.jpg);
-  background-size: cover;
+  background-color: darkorange;
+
 }
 
 
